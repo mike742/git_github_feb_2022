@@ -5,7 +5,11 @@
 
 *This text will be italic*
 **This text will be bold**
-__This text will be bold__
+
+* Item 1
+* Item 2
+	* Item 2.1
+	* Item 2.2
 
 
 Normal text fslkjksd fsldfjsldkjf lsdkfj lsdjflsdjfsdl 	
